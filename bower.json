@@ -1,0 +1,25 @@
+{
+  "name": "my-bower-test",
+  "version": "0.1.0",
+  "authors": [
+    "Bataviano Alexandri Heriawan <bataviano.heriawan@123rf.com>"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.1",
+    "modernizr": "~2.8.3",
+    "jquery": "~2.1.3"
+  }
+}
